@@ -21,9 +21,8 @@ npm start
 ```
 This will start the app on http://localhost:3000.
 
-
 ## Demo
-
 Click the image below to see the live demo:
-
-[![download](https://github.com/NadirZamouche/Weather-Broadcast/assets/95188070/d75d25c5-576d-4c62-97cb-270e3b1a1060)](https://weather-broadcast.vercel.app/)
+<a href="https://weather-broadcast.vercel.app/" target="_blank">
+    <img src="https://github.com/NadirZamouche/Weather-Broadcast/assets/95188070/d75d25c5-576d-4c62-97cb-270e3b1a1060" alt="Screenshot" width="1209" height="753" />
+</a>
