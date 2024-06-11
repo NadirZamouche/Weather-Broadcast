@@ -25,4 +25,6 @@ This will start the app on http://localhost:3000.
 
 ## Demo
 Click the image below to see the live demo:
-[<img width="1280" alt="Screenshot 2024-06-11 230236" src="https://github.com/NadirZamouche/Weather-Broadcast/assets/95188070/c007372b-0c8c-4111-ae6b-ee56a94542ba">](https://weather-broadcast.vercel.app/)
+<a href="https://weather-broadcast.vercel.app/" target="_blank">
+    <img width="1280" alt="Screenshot 2024-06-11 230236" src="https://github.com/NadirZamouche/Weather-Broadcast/assets/95188070/c007372b-0c8c-4111-ae6b-ee56a94542ba"/>
+</a>
