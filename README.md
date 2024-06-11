@@ -8,8 +8,8 @@ This is a React-based weather application that fetches weather data from the Wea
 ## ⚙️ Installation and Setup
 * In order to get started:
 ```
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
+git clone https://github.com/NadirZamouche/Weather-Broadcast
+cd Weather-Broadcast
 ```
 * Install dependencies:
 ```sh
