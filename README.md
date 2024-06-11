@@ -26,4 +26,4 @@ This will start the app on http://localhost:3000.
 
 Click the image below to see the live demo:
 
-[![download](https://github.com/NadirZamouche/Weather-Broadcast/assets/95188070/d75d25c5-576d-4c62-97cb-270e3b1a1060))](https://weather-broadcast.vercel.app/)
+[![download](https://github.com/NadirZamouche/Weather-Broadcast/assets/95188070/d75d25c5-576d-4c62-97cb-270e3b1a1060)](https://weather-broadcast.vercel.app/)
